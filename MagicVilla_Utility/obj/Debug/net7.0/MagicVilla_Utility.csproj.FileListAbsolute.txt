@@ -1,0 +1,12 @@
+/Users/amirduka/Documents/NewProject/Hannah/MagicVilla_Utility/bin/Debug/net7.0/MagicVilla_Utility.deps.json
+/Users/amirduka/Documents/NewProject/Hannah/MagicVilla_Utility/bin/Debug/net7.0/MagicVilla_Utility.dll
+/Users/amirduka/Documents/NewProject/Hannah/MagicVilla_Utility/bin/Debug/net7.0/MagicVilla_Utility.pdb
+/Users/amirduka/Documents/NewProject/Hannah/MagicVilla_Utility/obj/Debug/net7.0/MagicVilla_Utility.csproj.AssemblyReference.cache
+/Users/amirduka/Documents/NewProject/Hannah/MagicVilla_Utility/obj/Debug/net7.0/MagicVilla_Utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirduka/Documents/NewProject/Hannah/MagicVilla_Utility/obj/Debug/net7.0/MagicVilla_Utility.AssemblyInfoInputs.cache
+/Users/amirduka/Documents/NewProject/Hannah/MagicVilla_Utility/obj/Debug/net7.0/MagicVilla_Utility.AssemblyInfo.cs
+/Users/amirduka/Documents/NewProject/Hannah/MagicVilla_Utility/obj/Debug/net7.0/MagicVilla_Utility.csproj.CoreCompileInputs.cache
+/Users/amirduka/Documents/NewProject/Hannah/MagicVilla_Utility/obj/Debug/net7.0/MagicVilla_Utility.dll
+/Users/amirduka/Documents/NewProject/Hannah/MagicVilla_Utility/obj/Debug/net7.0/refint/MagicVilla_Utility.dll
+/Users/amirduka/Documents/NewProject/Hannah/MagicVilla_Utility/obj/Debug/net7.0/MagicVilla_Utility.pdb
+/Users/amirduka/Documents/NewProject/Hannah/MagicVilla_Utility/obj/Debug/net7.0/ref/MagicVilla_Utility.dll
