@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/MagicVilla_Web.bundle.scp.css"
     },
     {
+      "Id": "/Users/amirduka/Documents/NewProject/Hannah/MagicVilla_Web/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
+    },
+    {
       "Id": "/Users/amirduka/Documents/NewProject/Hannah/MagicVilla_Web/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
