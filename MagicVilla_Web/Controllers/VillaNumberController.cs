@@ -71,7 +71,14 @@ namespace MagicVilla_Web.Controllers
                 if (response != null && response.IsSuccess)
                 {
                     return RedirectToAction(nameof(IndexVillaNumber));
-                }                    
+                }
+                else
+                {
+                    if (response.ErrorMessage.Count>0)
+                    {
+                        ModelState.AddModelError("ErrorMessages", response.ErrorMessage.FirstOrDefault());
+                    }
+                }
             }
 
             var resp = await _villaService.GetAllAsync<APIResponse>();
